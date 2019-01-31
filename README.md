@@ -1,0 +1,2 @@
+# tarkvaratehnoloogiad
+Praktikumi projekt
